@@ -1,4 +1,4 @@
-# Calitos-plus
+# Carlitos-plus
 la web de carlitos plus
 
 # ¿que carajos es carlitos plus?
